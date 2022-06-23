@@ -11,7 +11,7 @@ import NextJS from '../public/assets/skills/nextjs.png'
 import AWS from '../public/assets/skills/aws.png';
 import Java from '../public/assets/skills/java.png'
 import Azure from '../public/assets/skills/azure.png'
-import WordPress from '../public/assets/skills/wordpress.png'
+import WordPress from '../public/assets/skills/WordPress.png'
 
 
 
