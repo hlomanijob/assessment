@@ -44,16 +44,7 @@ const Main = () => {
                 <AiOutlineMail />
               </div>
             </Link>
-            <a
-              href="https://wa.me/27826469236"
-              class="whatsapp_float"
-              target="_blank"
-               rel="noopener noreferrer"
-              >
-              <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
-                <FaWhatsapp />
-              </div>
-            </a>
+          
           </div>
         </div>
       </div>
